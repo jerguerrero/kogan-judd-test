@@ -1,5 +1,5 @@
 Created for Kogan by Judd Guerrero
-
+Language: JavaScript
 To Run:
 When in the directory of kogan-judd-test:
 
